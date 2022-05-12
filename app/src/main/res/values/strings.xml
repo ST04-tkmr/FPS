@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FPS</string>
+    <string name="up">▲</string>
+    <string name="down">▼</string>
+    <string name="left">◀</string>
+    <string name="right">▶</string>
+    <string name="rotation_left">L</string>
+    <string name="rotation_right">R</string>
+</resources>

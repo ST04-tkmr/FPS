@@ -63,7 +63,8 @@ public class CustomView extends View {
         allHitBeamWays = new ArrayList<>();
         a = new Vec2(0, 0);
         bounds = new RectF();
-        bounds.left = bounds.top = 0;
+        bounds.left = 0;
+        bounds.top = 0;
         pillar = new RectF();
         centerAngle = game.player.angle;
         playerRadius = 5f;
